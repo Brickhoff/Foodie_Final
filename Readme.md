@@ -5,7 +5,7 @@ If you don't use cloud9, you need to change the code for database connection and
 
 1. clone the repo.
 2. mysql-ctl cli
-3. Create your own database. If you want to use the default name, name your database "Foodie".
+3. Create your own database. If you want to use the default name, name your database "foodie".
 4. use foodie;
 5. Change the "user" in database.js to your username. If the development environment is not in Cloud9, change the username and host,
    and you need to add code for "password."
